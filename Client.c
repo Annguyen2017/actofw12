@@ -10,6 +10,10 @@
 #define MAXLINE 4096 /*max text line length*/
 #define SERV_PORT 10010 /*port*/
 
+
+//This is for git activities....
+
+
 int
 main(int argc, char **argv) 
 {
